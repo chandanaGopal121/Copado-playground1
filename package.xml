@@ -4,5 +4,9 @@
         <members>CaseTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>CaseUpdateSubject</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>55.0</version>
 </Package>
